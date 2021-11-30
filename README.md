@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @creatively-awesome
-- 👀 I’m interested in Java, Web-Dev, App-Dev, Competitive Coding and Blockchain Technology
-- 🌱 I’m currently learning JavaScript frameworks, Machine Learning, AI, Blockchain Technology and improving my CP-skills
-- 💞️ I’m looking to collaborate on making Decentralised Applications using Ethereum Blockchain
+- 👋 Hi, I’m Abhishek Kumar
+- 👀 I’m interested in Java, Web-Dev, App-Dev, Competitive Coding and Backend development
+- 🌱 I’m currently learning MERN stack and improving my CP-skills
+- 💞️ I’m looking to collaborate on Software Development projects involving MERN Stack
 - 📫 Drop a main on abhisheksharma1913@gmail.com
 
 <!---
